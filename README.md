@@ -9,8 +9,8 @@ Toma los datos de la API de [OpenWeather](https://openweathermap.org/)
 
 ### Images
 >Home page
-![](./src/images/home.png)
+![](./images/home.png)
 
 >Respuesta
-![](./src/images/response.png)
+![](./images/response.png)
 
