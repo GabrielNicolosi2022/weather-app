@@ -1,4 +1,4 @@
-# Buscador del clima
+i# Buscador del clima
 ### v. 1.0.0 
 
 Es una aplicación sencilla desarrollada en HTML, CSS y Javascript.
@@ -7,10 +7,14 @@ Es una aplicación sencilla desarrollada en HTML, CSS y Javascript.
 
 Toma los datos de la API de [OpenWeather](https://openweathermap.org/) 
 
+## Images
+>Home page
+<img src="./images/home.png" alt="home image" />
+
 ### Images
 >Home page
-![](./images/home.png)
+![image](./images/home.png)
 
 >Respuesta
-![](./images/response.png)
+![image](./images/response.png)
 
